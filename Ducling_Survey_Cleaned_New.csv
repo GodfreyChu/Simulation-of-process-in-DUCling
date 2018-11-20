@@ -1,0 +1,257 @@
+Grab table?,Which Stations?,1st Destination,2nd Destination,3rd Destination,4th Destination,5th Destination,6th Destination,7th Destination,8th Destination,9th Destination,10th Destination,11th Destination,12th Destination,13th Destination,Leave line?,"If Yes, which station(s)?",More food?,"If Yes, which stations?"
+No,"Water/Juices,Drinks",Drinks,Water/Juices,,,,,,,,,,,,No,,Yes,Pizza
+Yes,"Global Market,Grill,Water/Juices,Drinks",Grill,Global Market,Drinks,Water/Juices,,,,,,,,,,No,,Yes,"Grill,Pizza"
+Yes,"Family Meal,Global Market,Salad Bar,Water/Juices,Drinks,Fruit",Family Meal,Global Market,Salad Bar,Fruit,Water/Juices,Drinks,,,,,,,,Yes,"Grill,Pizza",Yes,
+No,"Special,Salad Bar",Special,Salad Bar,,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Pizza,Gluten Free,Water/Juices,",Water/Juices,Gluten Free,Pizza,Family Meal,,,,,,,,,,No,,No,
+No,"Grill,Water/Juices,Fruit",Grill,Fruit,Water/Juices,,,,,,,,,,,No,,No,
+No,"Grill,Pizza,Water/Juices",Grill,Water/Juices,Pizza,,,,,,,,,,,Yes,Family Meal,No,
+No,"Family Meal,Grill,Drinks",Family Meal,Grill,Drinks,,,,,,,,,,,No,,No,
+No,"Family Meal,Grill,Salad Bar",Grill,Family Meal,Salad Bar,,,,,,,,,,,Yes,"Family Meal,Grill,Salad Bar",Yes,"Family Meal,Grill,Salad Bar"
+Yes,"Family Meal,Global Market,Grill,Salad Bar,Water/Juices",Salad Bar,Grill,Family Meal,Global Market,Water/Juices,,,,,,,,,No,,No,
+Yes,"Family Meal,Global Market,Grill,Water/Juices",Water/Juices,Family Meal,Global Market,Grill,,,,,,,,,,No,,Yes,Water/Juices
+No,Pizza,Pizza,,,,,,,,,,,,,No,,Yes,Drinks
+Yes,"Global Market,Pizza",Pizza,Global Market,,,,,,,,,,,,No,,Yes,"Salad Bar,Water/Juices,Deli"
+Yes,"Grill,Special,Salad Bar,Drinks",Special,Salad Bar,Grill,Drinks,,,,,,,,,,No,,No,
+Yes,"Grill,Pizza,Salad Bar",Pizza,Grill,Salad Bar,,,,,,,,,,,No,,Yes,Salad Bar
+Yes,"Global Market,Grill,Special,Salad Bar,Water/Juices",Salad Bar,Global Market,Grill,Special,Water/Juices,,,,,,,,,Yes,"Family Meal,Kosher",Yes,"Grill,Water/Juices"
+Yes,"Grill,Drinks",Grill,Drinks,,,,,,,,,,,,No,,Yes,Grill
+Yes,"Pizza,Gluten Free,Soups",Gluten Free,Soups,Pizza,,,,,,,,,,,No,,No,
+Yes,"Grill,Special,Salad Bar",Special,Grill,Salad Bar,,,,,,,,,,,Yes,Family Meal,Yes,Grill
+Yes,Grill,Grill,,,,,,,,,,,,,Yes,Special,Yes,"Grill,Drinks"
+No,"Global Market,Water/Juices,",Global Market,Water/Juices,Drinks,,,,,,,,,,,No,,No,
+Yes,"Global Market,Grill,Special",Special,Grill,Global Market,,,,,,,,,,,No,,Yes,Drinks
+Yes,"Vegan,Soups,Salad Bar,Drinks",Salad Bar,Vegan,Soups,Drinks,,,,,,,,,,No,,Yes,Fruit
+Yes,"Family Meal,Grill,Pizza,Vegan,Drinks,Bread",Vegan,Family Meal,Drinks,Bread,Grill,Pizza,,,,,,,,Yes,"Grill,Water/Juices,Fruit",No,
+Yes,"Grill,Soups,Salad Bar",Grill,Salad Bar,Soups,,,,,,,,,,,No,,Yes,Drinks
+Yes,Global Market,Global Market,,,,,,,,,,,,,No,,Yes,Special
+Yes,"Gluten Free,Salad Bar,Water/Juices",Salad Bar,Gluten Free,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Global Market,Pizza,Special,Salad Bar,Drinks,Fruit",Salad Bar,Special,Global Market,Drinks,Fruit,Pizza,,,,,,,,Yes,"Family Meal,Salad Bar,Water/Juices",Yes,"Family Meal,Global Market,Soups,Salad Bar"
+Yes,"Global Market,Grill,Special",Grill,Global Market,Special,,,,,,,,,,,Yes,Pizza,Yes,Pizza
+No,"Family Meal,Global Market,Grill,Fruit,",Global Market,Family Meal,Fruit,Grill,,,,,,,,,,Yes,Global Market,Yes,Water/Juices
+No,"Family Meal,Grill,Pizza",Pizza,Grill,Family Meal,,,,,,,,,,,No,,No,
+No,"Family Meal,Water/Juices,",Family Meal,Water/Juices,,,,,,,,,,,,No,,No,
+Yes,"Gluten Free,Vegan,",Vegan,Gluten Free,,,,,,,,,,,,Yes,Family Meal,No,
+Yes,"Family Meal,Global Market,Pizza,Gluten Free,Drinks",Global Market,Family Meal,Pizza,Gluten Free,Drinks,,,,,,,,,No,,Yes,"Drinks,Fruit,"
+No,"Global Market,Grill,Pizza,Fruit",Grill,Global Market,Pizza,Fruit,,,,,,,,,,No,,Yes,Fruit
+Yes,"Pizza,Special",Special,Pizza,,,,,,,,,,,,Yes,Family Meal,Yes,"Global Market,Salad Bar,"
+No,"Family Meal,Pizza",Family Meal,Pizza,,,,,,,,,,,,Yes,Grill,Yes,Family Meal
+Yes,"Family Meal,Soups,Salad Bar,Deli",Family Meal,Deli,Salad Bar,Soups,,,,,,,,,,No,,No,
+Yes,"Global Market,Soups,Drinks,Fruit",Global Market,Soups,Drinks,Fruit,,,,,,,,,,No,,Yes,Fruit
+Yes,"Family Meal,Global Market,Special,Drinks,Fruit,",Family Meal,Global Market,Special,Fruit,Drinks,,,,,,,,,No,,No,
+Yes,"Family Meal,Vegan,Salad Bar,Water/Juices",Family Meal,Vegan,Water/Juices,Salad Bar,,,,,,,,,,No,,Yes,Fruit
+No,"Global Market,Gluten Free,Salad Bar,Water/Juices",Gluten Free,Global Market,Water/Juices,Salad Bar,,,,,,,,,,No,,No,
+Yes,Family Meal,Family Meal,,,,,,,,,,,,,Yes,Vegan,Yes,Family Meal
+Yes,"Grill,Salad Bar,Water/Juices,Fruit",Water/Juices,Fruit,Salad Bar,Grill,,,,,,,,,,No,,No,
+No,"Family Meal,Salad Bar,Water/Juices",Family Meal,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,
+No,"Global Market,Grill,Drinks",Grill,Drinks,Global Market,,,,,,,,,,,Yes,Global Market,Yes,"Family Meal,Global Market"
+Yes,Pizza,Pizza,,,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Global Market,",Family Meal,Global Market,,,,,,,,,,,,No,,No,
+No,"Grill,Salad Bar,Water/Juices",Grill,Salad Bar,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Global Market,Fruit,Bread",Bread,Family Meal,Global Market,Fruit,,,,,,,,,,Yes,"Grill,Salad Bar,Water/Juices",Yes,"Family Meal,Global Market,Fruit"
+Yes,"Salad Bar,Drinks,Deli",Salad Bar,Deli,Drinks,,,,,,,,,,,Yes,Deli,No,
+No,Pizza,Pizza,,,,,,,,,,,,,No,,No,
+Yes,"Special,Kosher,Soups,Salad Bar,Drinks",Kosher,Soups,Special,Drinks,Salad Bar,,,,,,,,,No,,Yes,Grill
+Yes,"Family Meal,Global Market,Grill,Pizza,Salad Bar,Drinks",Grill,Family Meal,Global Market,Pizza,Salad Bar,Drinks,,,,,,,,No,,Yes,"Family Meal,Drinks"
+Yes,Global Market,Global Market,,,,,,,,,,,,,Yes,Family Meal,Yes,
+No,"Family Meal,Global Market,Pizza,Special,Gluten Free,Vegan,Salad Bar,Water/Juices,Drinks,Deli,Fruit,Bread,",Family Meal,Global Market,Pizza,Vegan,Special,Gluten Free,Drinks,Water/Juices,Salad Bar,Deli,Fruit,Bread,,Yes,Family Meal,Yes,"Water/Juices,"
+No,"Global Market,Grill,Soups,Salad Bar",Global Market,Grill,Salad Bar,Soups,,,,,,,,,,No,,Yes,"Soups,Salad Bar"
+No,"Global Market,Grill,Pizza",Global Market,Grill,Pizza,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Global Market,Gluten Free,Drinks",Global Market,Family Meal,Gluten Free,Drinks,,,,,,,,,,No,,Yes,
+No,Gluten Free,Gluten Free,,,,,,,,,,,,,No,,No,
+No,"Family Meal,Global Market,Water/Juices",Family Meal,Global Market,Water/Juices,,,,,,,,,,,No,,Yes,Water/Juices
+No,"Grill,Soups,Salad Bar,Drinks,Bread,",Bread,Soups,Drinks,Grill,Salad Bar,,,,,,,,,Yes,Family Meal,No,
+Yes,"Grill,Pizza,Drinks",Grill,Pizza,Drinks,,,,,,,,,,,Yes,Global Market,Yes,"Grill,Drinks,"
+Yes,"Global Market,Gluten Free,Deli,",Global Market,Gluten Free,Deli,,,,,,,,,,,Yes,Family Meal,No,
+Yes,"Grill,Kosher,Water/Juices,Fruit",Grill,Kosher,Water/Juices,Fruit,,,,,,,,,,Yes,"Water/Juices,Fruit",Yes,Water/Juices
+No,"Special,Vegan,Water/Juices",Special,Vegan,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Grill,Gluten Free,Vegan,Deli",Vegan,Gluten Free,Grill,Deli,,,,,,,,,,Yes,Global Market,No,
+Yes,"Pizza,Special,Gluten Free,Vegan,Drinks",Special,Pizza,Gluten Free,Vegan,Drinks,,,,,,,,,No,,Yes,Salad Bar
+Yes,"Global Market,Salad Bar,Water/Juices",Global Market,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,
+Yes,"Global Market,Pizza,Salad Bar,Water/Juices",Global Market,Salad Bar,Water/Juices,Pizza,,,,,,,,,,No,,No,
+No,"Special,Gluten Free,Water/Juices,Deli",Special,Gluten Free,Water/Juices,Deli,,,,,,,,,,No,,No,
+Yes,"Grill,Gluten Free,Water/Juices",Gluten Free,Grill,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Salad Bar,Drinks,Bread",Salad Bar,Drinks,Bread,,,,,,,,,,,Yes,"Salad Bar,Bread",Yes,
+Yes,"Gluten Free,Salad Bar,Water/Juices",Gluten Free,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Special",Special,Family Meal,,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Special,Water/Juices",Family Meal,Special,Water/Juices,,,,,,,,,,,No,,Yes,"Water/Juices,"
+Yes,"Grill,Pizza,Drinks",Grill,Pizza,Drinks,,,,,,,,,,,No,,No,
+Yes,"Soups,Salad Bar,Water/Juices,Deli",Soups,Deli,Salad Bar,Water/Juices,,,,,,,,,,No,,No,
+No,Salad Bar,Salad Bar,,,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Pizza,Gluten Free,Drinks,Fruit",Family Meal,Gluten Free,Pizza,Drinks,Fruit,,,,,,,,,No,,No,
+No,"Grill,Salad Bar",Grill,Salad Bar,,,,,,,,,,,,No,,Yes,"Water/Juices,"
+No,"Pizza,Salad Bar,Bread,",Pizza,Bread,Salad Bar,,,,,,,,,,,Yes,Pizza,Yes,Drinks
+No,"Family Meal,Drinks,Fruit",Family Meal,Fruit,Drinks,,,,,,,,,,,No,,No,
+No,"Grill,Special",Special,Grill,,,,,,,,,,,,No,,No,
+Yes,"Global Market,Gluten Free,Salad Bar,Water/Juices",Global Market,Gluten Free,Salad Bar,Water/Juices,,,,,,,,,,Yes,Gluten Free,Yes,"Grill,Pizza,Salad Bar"
+No,"Grill,Salad Bar,Drinks,Deli",Grill,Salad Bar,Deli,Drinks,,,,,,,,,,Yes,Family Meal,No,
+No,"Special,Salad Bar,Deli",Special,Deli,Salad Bar,,,,,,,,,,,Yes,Gluten Free,Yes,"Drinks,"
+No,"Global Market,Grill,Drinks",Global Market,Grill,Drinks,,,,,,,,,,,No,,Yes,"Gluten Free,"
+Yes,"Family Meal,Special,Soups,Drinks,",Family Meal,Special,Soups,Drinks,,,,,,,,,,No,,No,
+No,Special,Special,,,,,,,,,,,,,Yes,Grill,No,
+Yes,"Global Market,Grill,Drinks,Fruit",Global Market,Fruit,Grill,Drinks,,,,,,,,,,No,,Yes,"Family Meal,Global Market,Grill,Fruit"
+No,"Global Market,Water/Juices,Deli",Global Market,Deli,Water/Juices,,,,,,,,,,,No,,Yes,
+No,"Grill,Special,Drinks",Grill,Special,Drinks,,,,,,,,,,,No,,Yes,Drinks
+No,"Family Meal,Pizza",Family Meal,Pizza,,,,,,,,,,,,No,,Yes,Drinks
+Yes,"Global Market,Grill",Global Market,Grill,,,,,,,,,,,,No,,Yes,Family Meal
+No,"Grill,Pizza,Drinks",Pizza,Grill,Drinks,,,,,,,,,,,No,,Yes,"Drinks,"
+Yes,"Family Meal,Global Market",Family Meal,Global Market,,,,,,,,,,,,Yes,Global Market,No,
+Yes,"Global Market,Salad Bar,Water/Juices",Salad Bar,Global Market,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Global Market,Fruit",Global Market,Fruit,,,,,,,,,,,,Yes,Grill,Yes,Global Market
+No,"Vegan,Salad Bar,Water/Juices",Vegan,Salad Bar,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Global Market,Special,Soups,Salad Bar,Water/Juices,Fruit",Fruit,Global Market,Special,Salad Bar,Soups,Water/Juices,Family Meal,,,,,,,No,,Yes,Family Meal
+Yes,Family Meal,Family Meal,,,,,,,,,,,,,No,,,
+Yes,"Global Market,Grill,Drinks",Global Market,Grill,Drinks,,,,,,,,,,,,,,
+Yes,"Family Meal,Global Market,Gluten Free,Water/Juices,Drinks",Drinks,Water/Juices,Gluten Free,Family Meal,Global Market,,,,,,,,,No,,Yes,Family Meal
+No,Water/Juices,Water/Juices,,,,,,,,,,,,,,,,
+Yes,"Pizza,Salad Bar,Drinks,Fruit,",Pizza,Salad Bar,Fruit,Drinks,,,,,,,,,,No,,Yes,"Salad Bar,Water/Juices,Drinks"
+No,"Global Market,Grill,Special,Drinks",Global Market,Grill,Special,Drinks,,,,,,,,,,No,,No,
+Yes,"Global Market,Drinks",Global Market,Drinks,,,,,,,,,,,,No,,Yes,Global Market
+Yes,"Global Market,Gluten Free",Gluten Free,Global Market,,,,,,,,,,,,No,,Yes,"Global Market,Water/Juices"
+Yes,"Family Meal,Grill,Water/Juices",Family Meal,Grill,Water/Juices,,,,,,,,,,,No,,Yes,"Pizza,Water/Juices"
+Yes,"Family Meal,Grill,Drinks",Family Meal,Grill,Drinks,,,,,,,,,,,No,,No,
+Yes,"Global Market,Pizza,Special,Vegan,Salad Bar",Global Market,Vegan,Special,Salad Bar,Pizza,,,,,,,,,No,,Yes,"Grill,Vegan,Salad Bar,Water/Juices,"
+Yes,"Family Meal,Global Market",Family Meal,Global Market,,,,,,,,,,,,No,,Yes,"Global Market,Fruit"
+Yes,"Family Meal,Global Market,Special,Salad Bar",Special,Salad Bar,Family Meal,Global Market,,,,,,,,,,Yes,Global Market,Yes,Drinks
+Yes,"Special,Water/Juices",Water/Juices,Special,,,,,,,,,,,,Yes,"Family Meal,Grill",No,
+Yes,"Grill,Salad Bar",Grill,Salad Bar,,,,,,,,,,,,Yes,Global Market,Yes,Drinks
+Yes,"Global Market,Gluten Free,Water/Juices",Global Market,Gluten Free,Salad Bar,,,,,,,,,,,Yes,"Global Market,Gluten Free",No,
+Yes,"Global Market,Pizza,Special,Drinks",Global Market,Special,Pizza,Drinks,,,,,,,,,,Yes,Soups,No,
+Yes,"Family Meal,Global Market,Salad Bar,Drinks",Family Meal,Global Market,Drinks,Salad Bar,,,,,,,,,,No,,No,
+Yes,"Grill,Gluten Free,Vegan,Soups,Salad Bar,Drinks,Fruit,",Grill,Vegan,Gluten Free,Salad Bar,Soups,Drinks,,Fruit,,,,,,No,,Yes,"Water/Juices,"
+Yes,Family Meal,Family Meal,,,,,,,,,,,,,Yes,"Family Meal,Grill,Salad Bar,Deli",Yes,"Grill,Special,Gluten Free"
+Yes,"Grill,Salad Bar,Drinks",Salad Bar,Grill,Drinks,,,,,,,,,,,No,,No,
+Yes,"Grill,Vegan,Water/Juices",Vegan,Grill,Water/Juices,,,,,,,,,,,No,,Yes,"Water/Juices,"
+Yes,"Family Meal,Global Market,Grill,Gluten Free,Salad Bar,Bread",Family Meal,Global Market,Grill,Gluten Free,Salad Bar,Bread,,,,,,,,No,,Yes,"Global Market,Gluten Free"
+Yes,"Family Meal,Global Market,Drinks,Fruit",Family Meal,Global Market,Drinks,Fruit,,,,,,,,,,Yes,Global Market,No,
+Yes,"Global Market,Vegan,Salad Bar,Bread",Bread,Vegan,Global Market,Salad Bar,,,,,,,,,,No,,No,
+Yes,"Family Meal,Vegan,Salad Bar,Bread",Bread,Family Meal,Vegan,Salad Bar,,,,,,,,,,No,,Yes,"Family Meal,Fruit,Bread"
+Yes,"Global Market,Water/Juices",Global Market,Water/Juices,,,,,,,,,,,,No,,Yes,"Family Meal,Gluten Free,Soups"
+Yes,"Grill,Pizza,Special",Grill,Special,Pizza,,,,,,,,,,,Yes,Family Meal,Yes,
+No,"Pizza,Water/Juices",Water/Juices,Pizza,,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Global Market,Grill,Pizza,Salad Bar,Water/Juices,Drinks,",Pizza,Grill,Global Market,Family Meal,Salad Bar,Water/Juices,Drinks,,,,,,,Yes,"Global Market,Grill",Yes,"Global Market,Pizza,Drinks,"
+Yes,"Family Meal,Global Market,Grill,Gluten Free,Deli,Fruit",Grill,Global Market,Family Meal,Gluten Free,Deli,Fruit,,,,,,,,Yes,Family Meal,No,
+No,"Family Meal,Global Market,Grill,Drinks",Family Meal,Grill,Global Market,Drinks,,,,,,,,,,No,,No,
+Yes,"Family Meal,Grill,Gluten Free,Soups,Salad Bar,Water/Juices,Drinks,Deli,Bread,",Bread,Salad Bar,Family Meal,Grill,Gluten Free,Soups,Drinks,Deli,Water/Juices,,,,,No,,No,
+Yes,"Global Market,Soups,Salad Bar",Global Market,Soups,Salad Bar,,,,,,,,,,,No,,No,
+Yes,"Grill,Pizza,Salad Bar",Grill,Salad Bar,Pizza,,,,,,,,,,,Yes,Family Meal,Yes,
+Yes,"Gluten Free,Vegan,Soups,Salad Bar,Water/Juices,Deli,Bread,",Soups,Gluten Free,Bread,Vegan,Water/Juices,Deli,,Salad Bar,,,,,,No,,Yes,"Pizza,Salad Bar,Water/Juices"
+No,Grill,Grill,,,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Grill,Drinks",Family Meal,Grill,,,,,,,,,,,,Yes,Global Market,Yes,
+No,"Pizza,Special,Salad Bar,Drinks",Pizza,Special,Salad Bar,Drinks,,,,,,,,,,No,,Yes,
+No,"Global Market,Grill,Drinks",Global Market,Grill,Drinks,,,,,,,,,,,Yes,Global Market,No,
+Yes,"Family Meal,Special,Salad Bar,Water/Juices,Drinks,",Water/Juices,Family Meal,Special,Salad Bar,Drinks,,,,,,,,,No,,Yes,
+Yes,"Global Market,Special,Gluten Free,Soups,Drinks",Gluten Free,Global Market,Special,Soups,Drinks,,,,,,,,,No,,Yes,"Drinks,"
+Yes,"Grill,Pizza,Salad Bar",Pizza,Salad Bar,Grill,,,,,,,,,,,Yes,Grill,Yes,Pizza
+Yes,"Family Meal,Soups,Water/Juices",Family Meal,Soups,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Vegan,Soups,Salad Bar",Salad Bar,Vegan,Soups,,,,,,,,,,,No,,No,
+No,"Grill,Pizza,Salad Bar,Drinks,Fruit",Pizza,Fruit,Grill,Salad Bar,Drinks,,,,,,,,,No,,Yes,
+No,"Grill,Drinks,Deli",Grill,Drinks,Deli,,,,,,,,,,,Yes,Grill,Yes,
+No,"Pizza,Special,Gluten Free,Salad Bar,Drinks",Gluten Free,Special,Salad Bar,Pizza,Drinks,,,,,,,,,Yes,"Family Meal,Global Market",Yes,"Family Meal,Global Market,Special,Gluten Free"
+Yes,Family Meal,Family Meal,,,,,,,,,,,,,No,,Yes,"Drinks,Fruit"
+Yes,"Global Market,Salad Bar,Water/Juices,",Global Market,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,"Family Meal,Global Market,Pizza,Water/Juices"
+No,"Grill,Drinks,Deli",Grill,Drinks,Deli,,,,,,,,,,,Yes,Grill,Yes,
+Yes,"Global Market,Grill,Water/Juices",Global Market,Grill,Water/Juices,,,,,,,,,,,No,,Yes,
+Yes,"Grill,Vegan,Soups",Soups,Grill,Vegan,,,,,,,,,,,Yes,Family Meal,Yes,Soups
+Yes,"Global Market,Soups,Salad Bar,Fruit",Global Market,Soups,Salad Bar,Fruit,,,,,,,,,,Yes,Grill,No,
+No,"Family Meal,Global Market,Water/Juices,Drinks",Family Meal,Global Market,Water/Juices,Drinks,,,,,,,,,,No,,Yes,"Soups,Salad Bar"
+No,"Grill,Vegan,Salad Bar",Vegan,Grill,Salad Bar,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Water/Juices",Family Meal,Water/Juices,,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Special,Gluten Free,Soups,Salad Bar,Water/Juices,Fruit,",Family Meal,Gluten Free,Special,Soups,Salad Bar,Water/Juices,Fruit,,,,,,,No,,Yes,Special
+Yes,"Grill,Drinks,Fruit",Grill,Fruit,Drinks,,,,,,,,,,,No,,No,
+No,"Global Market,Grill,Soups,Deli,",Soups,Global Market,,Deli,Grill,,,,,,,,,Yes,"Family Meal,Global Market,Grill",Yes,"Family Meal,Drinks,Fruit"
+Yes,"Global Market,Pizza,Special,Drinks,",Global Market,Special,Drinks,Pizza,,,,,,,,,,No,,Yes,"Drinks,Fruit"
+No,"Family Meal,Global Market,Pizza,Salad Bar,Water/Juices",Pizza,Salad Bar,Family Meal,Global Market,Water/Juices,,,,,,,,,No,,No,
+No,"Gluten Free,Water/Juices",Gluten Free,Water/Juices,,,,,,,,,,,,No,,Yes,
+Yes,"Grill,Salad Bar",Grill,Salad Bar,,,,,,,,,,,,No,,Yes,
+No,"Special,Vegan,Soups,Salad Bar",Special,Vegan,Salad Bar,Soups,,,,,,,,,,No,,Yes,"Pizza,Water/Juices"
+Yes,Family Meal,Family Meal,,,,,,,,,,,,,No,,Yes,"Grill,"
+No,"Global Market,Drinks,Fruit",Global Market,Drinks,Fruit,,,,,,,,,,,No,,No,
+No,"Family Meal,Global Market,Water/Juices,Drinks",Family Meal,Global Market,Water/Juices,Drinks,,,,,,,,,,No,,Yes,"Water/Juices,Drinks"
+Yes,"Vegan,",Vegan,,,,,,,,,,,,,Yes,Grill,No,
+Yes,"Global Market,Special,Soups",Soups,Global Market,Special,,,,,,,,,,,No,,No,
+No,"Global Market,Special,Drinks",Global Market,Special,Drinks,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Pizza,Salad Bar,Water/Juices,Drinks,Fruit",Family Meal,Salad Bar,Pizza,Fruit,Water/Juices,Drinks,,,,,,,,No,,Yes,"Water/Juices,Drinks,"
+Yes,"Family Meal,Global Market,",Family Meal,Global Market,,,,,,,,,,,,No,,Yes,Global Market
+Yes,"Vegan,Salad Bar",Vegan,Salad Bar,,,,,,,,,,,,Yes,Family Meal,No,
+Yes,"Gluten Free,Salad Bar,Drinks,Fruit",Gluten Free,Salad Bar,Fruit,Drinks,,,,,,,,,,No,,Yes,Drinks
+No,Grill,Grill,,,,,,,,,,,,,Yes,Grill,Yes,Grill
+No,Gluten Free,Gluten Free,,,,,,,,,,,,,No,,No,
+No,"Family Meal,Pizza,Drinks",Pizza,Family Meal,Drinks,,,,,,,,,,,No,,No,
+Yes,"Global Market,Grill,Salad Bar,Water/Juices",Global Market,Grill,Salad Bar,Water/Juices,,,,,,,,,,No,,Yes,"Fruit,"
+Yes,"Family Meal,Grill,Salad Bar,Water/Juices,Fruit,",Family Meal,Grill,Salad Bar,Fruit,Water/Juices,,,,,,,,,No,,No,
+Yes,"Global Market,Grill",Grill,Global Market,,,,,,,,,,,,Yes,Family Meal,Yes,Water/Juices
+Yes,"Family Meal,Pizza,Vegan,Salad Bar,Drinks,Fruit,Bread,",Family Meal,Pizza,Vegan,Bread,Salad Bar,Fruit,Drinks,,,,,,,No,,Yes,"Pizza,Salad Bar,Bread,"
+Yes,"Global Market,Salad Bar,Drinks",Global Market,Salad Bar,Drinks,,,,,,,,,,,No,,No,
+Yes,"Grill,Vegan,",Grill,Vegan,,,,,,,,,,,,Yes,Grill,No,
+No,"Pizza,Gluten Free,Water/Juices",Gluten Free,Pizza,Water/Juices,,,,,,,,,,,No,,No,
+No,"Grill,Salad Bar,Water/Juices,",Grill,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,"Drinks,"
+Yes,"Special,Gluten Free,",Gluten Free,Special,,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Special,",Family Meal,Special,,,,,,,,,,,,No,,Yes,
+Yes,"Global Market,Grill,Pizza,Special,Drinks,Deli,",Global Market,Grill,Special,Pizza,Deli,,Drinks,,,,,,,No,,Yes,"Pizza,Drinks,"
+Yes,"Family Meal,Global Market,Gluten Free,Vegan,Water/Juices,Drinks,Deli",Family Meal,Global Market,Gluten Free,Vegan,Water/Juices,Drinks,Deli,,,,,,,Yes,Family Meal,No,
+Yes,"Family Meal,Global Market,Special,Water/Juices",Global Market,Special,Family Meal,Water/Juices,,,,,,,,,,No,,Yes,"Family Meal,Water/Juices"
+Yes,"Global Market,Special",Global Market,Special,,,,,,,,,,,,No,,Yes,"Grill,Salad Bar"
+No,"Global Market,Grill,Salad Bar,Fruit",Global Market,Grill,Salad Bar,Fruit,,,,,,,,,,Yes,Grill,Yes,"Global Market,Grill,Bread"
+Yes,"Family Meal,Global Market,Pizza,Salad Bar,Water/Juices",Family Meal,Global Market,Pizza,Salad Bar,Water/Juices,,,,,,,,,Yes,Global Market,Yes,"Water/Juices,Drinks"
+No,"Global Market,Water/Juices,Fruit",Global Market,Water/Juices,Fruit,,,,,,,,,,,No,,Yes,"Soups,Salad Bar"
+No,"Pizza,Gluten Free,Water/Juices,",Gluten Free,Pizza,Water/Juices,,,,,,,,,,,No,,Yes,"Pizza,Water/Juices"
+No,"Pizza,Gluten Free",Gluten Free,Pizza,,,,,,,,,,,,No,,Yes,Pizza
+Yes,"Family Meal,Grill,Pizza,Special",Grill,Pizza,Family Meal,Special,,,,,,,,,,Yes,"Global Market,Grill,Soups",Yes,"Family Meal,Global Market,Grill"
+Yes,"Family Meal,Grill",Family Meal,,Grill,,,,,,,,,,,No,,Yes,"Fruit,"
+No,"Global Market,Grill",Global Market,Grill,,,,,,,,,,,,No,,No,
+No,"Global Market,Grill,Salad Bar,",Global Market,Grill,Salad Bar,,,,,,,,,,,Yes,Gluten Free,No,
+Yes,"Global Market,Soups,Drinks",Global Market,Soups,Drinks,,,,,,,,,,,No,,No,
+Yes,"Family Meal,",Family Meal,,,,,,,,,,,,,Yes,Grill,Yes,Fruit
+Yes,"Family Meal,Vegan,Water/Juices,",Family Meal,Vegan,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Global Market,Pizza,Gluten Free,Water/Juices,Fruit,",Global Market,Pizza,Gluten Free,Water/Juices,Fruit,,,,,,,,,No,,No,
+No,"Special,Salad Bar,Fruit",Special,Salad Bar,Fruit,,,,,,,,,,,No,,No,
+No,"Salad Bar,Water/Juices",Salad Bar,Water/Juices,,,,,,,,,,,,No,,No,
+No,"Family Meal,Grill,Special,Soups,Water/Juices,Drinks,Deli",Grill,Special,Soups,Drinks,Water/Juices,Deli,Family Meal,,,,,,,Yes,Family Meal,Yes,"Family Meal,Drinks"
+Yes,"Global Market,Grill,Pizza,Salad Bar,Water/Juices",Pizza,Global Market,Grill,Salad Bar,Water/Juices,,,,,,,,,No,,No,
+No,"Salad Bar,Fruit",Salad Bar,Fruit,,,,,,,,,,,,No,,Yes,Grill
+No,"Gluten Free,Soups,Salad Bar,Water/Juices",Gluten Free,Soups,Salad Bar,Water/Juices,,,,,,,,,,No,,No,
+Yes,"Family Meal,Global Market,Grill,Water/Juices",Water/Juices,Grill,Global Market,Family Meal,,,,,,,,,,Yes,Family Meal,Yes,Drinks
+No,"Special,Salad Bar,",Special,Salad Bar,,,,,,,,,,,,Yes,Family Meal,No,
+No,Salad Bar,Salad Bar,,,,,,,,,,,,,No,,Yes,"Salad Bar,Water/Juices"
+No,"Family Meal,Global Market,Special,Water/Juices,Drinks,Fruit",Special,Family Meal,Global Market,Fruit,Water/Juices,Drinks,,,,,,,,No,,Yes,"Family Meal,Global Market,Water/Juices,"
+No,"Grill,Special,Water/Juices",Grill,Special,Water/Juices,,,,,,,,,,,No,,No,
+No,"Gluten Free,Water/Juices,Fruit",Gluten Free,Water/Juices,Fruit,,,,,,,,,,,No,,Yes,"Salad Bar,Water/Juices"
+No,"Grill,Drinks",Grill,Drinks,,,,,,,,,,,,No,,No,
+No,"Grill,Pizza,Special",Grill,Pizza,Special,,,,,,,,,,,No,,Yes,Pizza
+No,"Family Meal,Global Market",Family Meal,Global Market,,,,,,,,,,,,No,,Yes,"Pizza,"
+Yes,"Family Meal,Soups,Water/Juices",Family Meal,Soups,Water/Juices,,,,,,,,,,,No,,No,
+No,"Grill,Soups,Salad Bar",Grill,Salad Bar,Soups,,,,,,,,,,,Yes,Family Meal,Yes,"Deli,"
+Yes,"Grill,Salad Bar,Water/Juices",Grill,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,
+Yes,"Global Market,Salad Bar,",Global Market,Salad Bar,,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Grill,Pizza,Salad Bar,Drinks",Family Meal,Salad Bar,Grill,Pizza,Drinks,,,,,,,,,No,,Yes,"Special,Drinks"
+Yes,"Family Meal,Gluten Free",Family Meal,Gluten Free,,,,,,,,,,,,No,,No,
+Yes,"Global Market,Special,Salad Bar,Drinks,",Global Market,Special,Salad Bar,Drinks,,,,,,,,,,No,,No,
+Yes,"Special,Soups,Salad Bar",Salad Bar,Soups,Special,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Grill",Family Meal,Grill,,,,,,,,,,,,No,,Yes,
+Yes,"Family Meal,Global Market,Salad Bar,Water/Juices,Fruit",Family Meal,Global Market,Salad Bar,Water/Juices,Fruit,,,,,,,,,No,,Yes,Fruit
+Yes,"Pizza,Special,Water/Juices,Deli",Special,Pizza,Deli,Water/Juices,,,,,,,,,,No,,Yes,
+No,"Family Meal,Pizza",Family Meal,Pizza,,,,,,,,,,,,Yes,Bread,Yes,Special
+No,"Family Meal,Global Market,Grill,Pizza",Global Market,Family Meal,Grill,Pizza,,,,,,,,,,No,,Yes,"Soups,Water/Juices,Drinks,"
+No,"Pizza,Deli",Pizza,Deli,,,,,,,,,,,,Yes,Deli,No,
+Yes,"Grill,Salad Bar,Water/Juices",Grill,Salad Bar,Water/Juices,,,,,,,,,,,No,,No,
+No,"Grill,Pizza,Salad Bar",Grill,Salad Bar,Pizza,,,,,,,,,,,Yes,"Family Meal,Global Market",Yes,"Pizza,"
+No,"Fruit,",,Fruit,,,,,,,,,,,,No,,No,
+Yes,"Global Market,Grill,Salad Bar,Water/Juices,",Salad Bar,Grill,Water/Juices,Global Market,,,,,,,,,,Yes,"Family Meal,Global Market,Grill",Yes,Global Market
+Yes,"Drinks,Fruit",Drinks,Fruit,,,,,,,,,,,,Yes,Grill,Yes,Family Meal
+Yes,"Pizza,Gluten Free,Salad Bar,Drinks",Pizza,Gluten Free,Salad Bar,Drinks,,,,,,,,,,No,,Yes,Special
+No,"Pizza,Salad Bar,Drinks",Salad Bar,Pizza,Drinks,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Pizza,Drinks",Family Meal,Pizza,Drinks,,,,,,,,,,,No,,Yes,
+Yes,"Global Market,Special,Salad Bar",Special,Salad Bar,Global Market,,,,,,,,,,,No,,Yes,"Global Market,Drinks"
+Yes,"Grill,Special,Salad Bar,Drinks,",Grill,Special,Salad Bar,Drinks,,,,,,,,,,No,,No,
+Yes,"Drinks,",Drinks,,,,,,,,,,,,,No,,No,
+No,"Grill,Salad Bar,Water/Juices,",Grill,Salad Bar,Water/Juices,,,,,,,,,,,No,,Yes,"Water/Juices,"
+Yes,"Family Meal,Salad Bar",Salad Bar,Family Meal,,,,,,,,,,,,Yes,Gluten Free,Yes,Salad Bar
+No,"Gluten Free,Vegan,Soups,Drinks",Gluten Free,Vegan,Soups,Drinks,,,,,,,,,,No,,Yes,Drinks
+Yes,"Family Meal,Global Market,Grill,Salad Bar,Water/Juices,Drinks,Fruit,",Grill,Fruit,Global Market,Drinks,Family Meal,Salad Bar,Water/Juices,,,,,,,Yes,"Family Meal,Global Market,Grill",Yes,
+No,"Family Meal,Vegan,Salad Bar",Vegan,Family Meal,Salad Bar,,,,,,,,,,,No,,Yes,Pizza
+Yes,"Family Meal,Global Market,Water/Juices",Family Meal,Global Market,Water/Juices,,,,,,,,,,,No,,No,
+Yes,"Family Meal,Pizza,Salad Bar,Drinks,Fruit",Family Meal,Salad Bar,Pizza,Fruit,Drinks,,,,,,,,,Yes,Family Meal,Yes,Special
+Yes,"Family Meal,Pizza,Gluten Free,Soups,Salad Bar",Family Meal,Gluten Free,Pizza,Soups,Salad Bar,,,,,,,,,No,,Yes,Family Meal
+No,"Family Meal,Grill,Gluten Free,Soups,Salad Bar",Family Meal,Grill,Salad Bar,Gluten Free,Soups,,,,,,,,,No,,No,
+Yes,"Grill,Special,Soups,Drinks",Special,Soups,Grill,Drinks,,,,,,,,,,Yes,Global Market,No,
